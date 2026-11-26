@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "tree",
+    "name": "Tree",
+    "tagId": "20"
+  },
+  "updatedAt": "2026-11-26T18:56:30.404Z",
+  "problems": [
+    {
+      "frontendId": "3820",
+      "title": "Pythagorean Distance Nodes in a Tree",
+      "slug": "pythagorean-distance-nodes-in-a-tree",
+      "problemName": "3820-pythagorean-distance-nodes-in-a-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/pythagorean-distance-nodes-in-a-tree/",
+      "folderPath": "leet/3820-pythagorean-distance-nodes-in-a-tree/",
+      "readmePath": "leet/3820-pythagorean-distance-nodes-in-a-tree/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3820-pythagorean-distance-nodes-in-a-tree.py",
+          "path": "leet/3820-pythagorean-distance-nodes-in-a-tree/3820-pythagorean-distance-nodes-in-a-tree.py",
+          "sha": "4348008f9bfcece56e404fedd82c57200e39329e",
+          "lastSyncedAt": "2026-11-26T18:56:30.404Z"
+        }
+      ]
+    }
+  ]
+}
