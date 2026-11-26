@@ -5,8 +5,28 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-11-26T19:01:28.344Z",
+  "updatedAt": "2026-11-26T19:01:47.919Z",
   "problems": [
+    {
+      "frontendId": "4",
+      "title": "Median of Two Sorted Arrays",
+      "slug": "median-of-two-sorted-arrays",
+      "problemName": "0004-median-of-two-sorted-arrays",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "folderPath": "leet/0004-median-of-two-sorted-arrays/",
+      "readmePath": "leet/0004-median-of-two-sorted-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0004-median-of-two-sorted-arrays.py",
+          "path": "leet/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.py",
+          "sha": "2a628cacdede1a6d67f47040b501a440b5080fba",
+          "lastSyncedAt": "2026-11-26T19:01:47.919Z"
+        }
+      ]
+    },
     {
       "frontendId": "23",
       "title": "Merge k Sorted Lists",
