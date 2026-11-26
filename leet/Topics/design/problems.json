@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "design",
+    "name": "Design",
+    "tagId": "25"
+  },
+  "updatedAt": "2026-11-26T18:57:14.476Z",
+  "problems": [
+    {
+      "frontendId": "432",
+      "title": "All O`one Data Structure",
+      "slug": "all-oone-data-structure",
+      "problemName": "0432-all-oone-data-structure",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/all-oone-data-structure/",
+      "folderPath": "leet/0432-all-oone-data-structure/",
+      "readmePath": "leet/0432-all-oone-data-structure/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0432-all-oone-data-structure.py",
+          "path": "leet/0432-all-oone-data-structure/0432-all-oone-data-structure.py",
+          "sha": "b406682187c68841af9598d30f4f08bb8f148ea4",
+          "lastSyncedAt": "2026-11-26T18:57:14.476Z"
+        }
+      ]
+    }
+  ]
+}
