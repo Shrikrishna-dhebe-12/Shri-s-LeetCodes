@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "backtracking",
+    "name": "Backtracking",
+    "tagId": "14"
+  },
+  "updatedAt": "2026-11-26T18:59:27.471Z",
+  "problems": [
+    {
+      "frontendId": "282",
+      "title": "Expression Add Operators",
+      "slug": "expression-add-operators",
+      "problemName": "0282-expression-add-operators",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/expression-add-operators/",
+      "folderPath": "leet/0282-expression-add-operators/",
+      "readmePath": "leet/0282-expression-add-operators/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0282-expression-add-operators.py",
+          "path": "leet/0282-expression-add-operators/0282-expression-add-operators.py",
+          "sha": "89ca42789065d0e39146a60ec47ffebd42d47941",
+          "lastSyncedAt": "2026-11-26T18:59:27.471Z"
+        }
+      ]
+    }
+  ]
+}
