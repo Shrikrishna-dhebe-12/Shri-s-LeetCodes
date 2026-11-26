@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "sorting",
+    "name": "Sorting",
+    "tagId": "61049"
+  },
+  "updatedAt": "2026-11-26T19:01:16.797Z",
+  "problems": [
+    {
+      "frontendId": "761",
+      "title": "Special Binary String",
+      "slug": "special-binary-string",
+      "problemName": "0761-special-binary-string",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/special-binary-string/",
+      "folderPath": "leet/0761-special-binary-string/",
+      "readmePath": "leet/0761-special-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0761-special-binary-string.py",
+          "path": "leet/0761-special-binary-string/0761-special-binary-string.py",
+          "sha": "1650f157b5d1020a0e8283e73ae36fadaa684883",
+          "lastSyncedAt": "2026-11-26T19:01:16.797Z"
+        }
+      ]
+    }
+  ]
+}
