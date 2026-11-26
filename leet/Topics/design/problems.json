@@ -5,7 +5,7 @@
     "name": "Design",
     "tagId": "25"
   },
-  "updatedAt": "2026-11-26T18:57:14.476Z",
+  "updatedAt": "2026-11-26T19:00:27.883Z",
   "problems": [
     {
       "frontendId": "432",
@@ -24,6 +24,26 @@
           "path": "leet/0432-all-oone-data-structure/0432-all-oone-data-structure.py",
           "sha": "b406682187c68841af9598d30f4f08bb8f148ea4",
           "lastSyncedAt": "2026-11-26T18:57:14.476Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "901",
+      "title": "Online Stock Span",
+      "slug": "online-stock-span",
+      "problemName": "0901-online-stock-span",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/online-stock-span/",
+      "folderPath": "leet/0901-online-stock-span/",
+      "readmePath": "leet/0901-online-stock-span/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0901-online-stock-span.py",
+          "path": "leet/0901-online-stock-span/0901-online-stock-span.py",
+          "sha": "1cf70c41912894a7a4523a8b93bddd37dc74b2b2",
+          "lastSyncedAt": "2026-11-26T19:00:27.883Z"
         }
       ]
     }
