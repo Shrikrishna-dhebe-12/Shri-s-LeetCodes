@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T19:00:08.401Z",
+  "updatedAt": "2026-11-26T19:00:15.043Z",
   "problems": [
+    {
+      "frontendId": "177",
+      "title": "Nth Highest Salary",
+      "slug": "nth-highest-salary",
+      "problemName": "0177-nth-highest-salary",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/nth-highest-salary/",
+      "folderPath": "leet/0177-nth-highest-salary/",
+      "readmePath": "leet/0177-nth-highest-salary/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0177-nth-highest-salary.sql",
+          "path": "leet/0177-nth-highest-salary/0177-nth-highest-salary.sql",
+          "sha": "8b437836b658caae13bf6c654e368cdbc4b7aec5",
+          "lastSyncedAt": "2026-11-26T19:00:15.043Z"
+        }
+      ]
+    },
     {
       "frontendId": "178",
       "title": "Rank Scores",
