@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "divide-and-conquer",
+    "name": "Divide and Conquer",
+    "tagId": "12"
+  },
+  "updatedAt": "2026-11-26T18:58:49.191Z",
+  "problems": [
+    {
+      "frontendId": "53",
+      "title": "Maximum Subarray",
+      "slug": "maximum-subarray",
+      "problemName": "0053-maximum-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray/",
+      "folderPath": "leet/0053-maximum-subarray/",
+      "readmePath": "leet/0053-maximum-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0053-maximum-subarray.py",
+          "path": "leet/0053-maximum-subarray/0053-maximum-subarray.py",
+          "sha": "ed1f20b563a0f0baeb19578d5efaf332f9a6e186",
+          "lastSyncedAt": "2026-11-26T18:58:49.191Z"
+        }
+      ]
+    }
+  ]
+}
