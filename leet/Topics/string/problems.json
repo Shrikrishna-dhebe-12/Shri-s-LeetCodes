@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T19:00:45.402Z",
+  "updatedAt": "2026-11-26T19:01:00.519Z",
   "problems": [
+    {
+      "frontendId": "6",
+      "title": "Zigzag Conversion",
+      "slug": "zigzag-conversion",
+      "problemName": "0006-zigzag-conversion",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/zigzag-conversion/",
+      "folderPath": "leet/0006-zigzag-conversion/",
+      "readmePath": "leet/0006-zigzag-conversion/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0006-zigzag-conversion.py",
+          "path": "leet/0006-zigzag-conversion/0006-zigzag-conversion.py",
+          "sha": "5fc19ae5ec55cb6b949ba90d146be18cb35deb80",
+          "lastSyncedAt": "2026-11-26T19:01:00.519Z"
+        }
+      ]
+    },
     {
       "frontendId": "10",
       "title": "Regular Expression Matching",
