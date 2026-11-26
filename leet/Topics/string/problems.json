@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T19:01:00.519Z",
+  "updatedAt": "2026-11-26T19:01:16.797Z",
   "problems": [
     {
       "frontendId": "6",
@@ -104,6 +104,26 @@
           "path": "leet/0282-expression-add-operators/0282-expression-add-operators.py",
           "sha": "89ca42789065d0e39146a60ec47ffebd42d47941",
           "lastSyncedAt": "2026-11-26T18:59:27.471Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "761",
+      "title": "Special Binary String",
+      "slug": "special-binary-string",
+      "problemName": "0761-special-binary-string",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/special-binary-string/",
+      "folderPath": "leet/0761-special-binary-string/",
+      "readmePath": "leet/0761-special-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0761-special-binary-string.py",
+          "path": "leet/0761-special-binary-string/0761-special-binary-string.py",
+          "sha": "1650f157b5d1020a0e8283e73ae36fadaa684883",
+          "lastSyncedAt": "2026-11-26T19:01:16.797Z"
         }
       ]
     },
