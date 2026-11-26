@@ -5,8 +5,28 @@
     "name": "Breadth-First Search",
     "tagId": "22"
   },
-  "updatedAt": "2026-11-26T18:56:30.404Z",
+  "updatedAt": "2026-11-26T18:58:08.312Z",
   "problems": [
+    {
+      "frontendId": "1162",
+      "title": "As Far from Land as Possible",
+      "slug": "as-far-from-land-as-possible",
+      "problemName": "1162-as-far-from-land-as-possible",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/as-far-from-land-as-possible/",
+      "folderPath": "leet/1162-as-far-from-land-as-possible/",
+      "readmePath": "leet/1162-as-far-from-land-as-possible/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1162-as-far-from-land-as-possible.py",
+          "path": "leet/1162-as-far-from-land-as-possible/1162-as-far-from-land-as-possible.py",
+          "sha": "37f6282ad9be779e83da317246ab995ce2bdc304",
+          "lastSyncedAt": "2026-11-26T18:58:08.312Z"
+        }
+      ]
+    },
     {
       "frontendId": "3820",
       "title": "Pythagorean Distance Nodes in a Tree",
