@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-26T19:00:54.959Z",
+  "updatedAt": "2026-11-26T19:01:42.795Z",
   "problems": [
     {
       "frontendId": "9",
@@ -124,6 +124,26 @@
           "path": "leet/0282-expression-add-operators/0282-expression-add-operators.py",
           "sha": "89ca42789065d0e39146a60ec47ffebd42d47941",
           "lastSyncedAt": "2026-11-26T18:59:27.471Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1716",
+      "title": "Calculate Money in Leetcode Bank",
+      "slug": "calculate-money-in-leetcode-bank",
+      "problemName": "1716-calculate-money-in-leetcode-bank",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/calculate-money-in-leetcode-bank/",
+      "folderPath": "leet/1716-calculate-money-in-leetcode-bank/",
+      "readmePath": "leet/1716-calculate-money-in-leetcode-bank/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1716-calculate-money-in-leetcode-bank.py",
+          "path": "leet/1716-calculate-money-in-leetcode-bank/1716-calculate-money-in-leetcode-bank.py",
+          "sha": "f4dab9e53d6b89a2b861d408cb8e8f6f125c5205",
+          "lastSyncedAt": "2026-11-26T19:01:42.795Z"
         }
       ]
     }
