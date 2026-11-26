@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "database",
+    "name": "Database",
+    "tagId": "61043"
+  },
+  "updatedAt": "2026-11-26T18:56:48.243Z",
+  "problems": [
+    {
+      "frontendId": "1084",
+      "title": "Sales Analysis III",
+      "slug": "sales-analysis-iii",
+      "problemName": "1084-sales-analysis-iii",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sales-analysis-iii/",
+      "folderPath": "leet/1084-sales-analysis-iii/",
+      "readmePath": "leet/1084-sales-analysis-iii/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "1084-sales-analysis-iii.sql",
+          "path": "leet/1084-sales-analysis-iii/1084-sales-analysis-iii.sql",
+          "sha": "1af5faba642e36164627551941d34f048973444e",
+          "lastSyncedAt": "2026-11-26T18:56:48.243Z"
+        }
+      ]
+    }
+  ]
+}
