@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-26T18:56:55.918Z",
+  "updatedAt": "2026-11-26T18:58:23.620Z",
   "problems": [
+    {
+      "frontendId": "10",
+      "title": "Regular Expression Matching",
+      "slug": "regular-expression-matching",
+      "problemName": "0010-regular-expression-matching",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/regular-expression-matching/",
+      "folderPath": "leet/0010-regular-expression-matching/",
+      "readmePath": "leet/0010-regular-expression-matching/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0010-regular-expression-matching.py",
+          "path": "leet/0010-regular-expression-matching/0010-regular-expression-matching.py",
+          "sha": "4ddf2cbdbff217a6256895346c89ec0f42ebf08b",
+          "lastSyncedAt": "2026-11-26T18:58:23.620Z"
+        }
+      ]
+    },
     {
       "frontendId": "2983",
       "title": "Palindrome Rearrangement Queries",
