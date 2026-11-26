@@ -5,7 +5,7 @@
     "name": "Divide and Conquer",
     "tagId": "12"
   },
-  "updatedAt": "2026-11-26T18:59:00.949Z",
+  "updatedAt": "2026-11-26T19:01:16.797Z",
   "problems": [
     {
       "frontendId": "23",
@@ -44,6 +44,26 @@
           "path": "leet/0053-maximum-subarray/0053-maximum-subarray.py",
           "sha": "ed1f20b563a0f0baeb19578d5efaf332f9a6e186",
           "lastSyncedAt": "2026-11-26T18:58:49.191Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "761",
+      "title": "Special Binary String",
+      "slug": "special-binary-string",
+      "problemName": "0761-special-binary-string",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/special-binary-string/",
+      "folderPath": "leet/0761-special-binary-string/",
+      "readmePath": "leet/0761-special-binary-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0761-special-binary-string.py",
+          "path": "leet/0761-special-binary-string/0761-special-binary-string.py",
+          "sha": "1650f157b5d1020a0e8283e73ae36fadaa684883",
+          "lastSyncedAt": "2026-11-26T19:01:16.797Z"
         }
       ]
     }
