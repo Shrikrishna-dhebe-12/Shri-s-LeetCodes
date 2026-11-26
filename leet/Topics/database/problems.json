@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T18:57:30.603Z",
+  "updatedAt": "2026-11-26T18:57:36.795Z",
   "problems": [
     {
       "frontendId": "182",
@@ -24,6 +24,26 @@
           "path": "leet/0182-duplicate-emails/0182-duplicate-emails.sql",
           "sha": "29405fafc2042a11b1798223242f42ac307b4807",
           "lastSyncedAt": "2026-11-26T18:57:30.603Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "601",
+      "title": "Human Traffic of Stadium",
+      "slug": "human-traffic-of-stadium",
+      "problemName": "0601-human-traffic-of-stadium",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/human-traffic-of-stadium/",
+      "folderPath": "leet/0601-human-traffic-of-stadium/",
+      "readmePath": "leet/0601-human-traffic-of-stadium/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0601-human-traffic-of-stadium.sql",
+          "path": "leet/0601-human-traffic-of-stadium/0601-human-traffic-of-stadium.sql",
+          "sha": "cf163225df9343a324faa55116464ea2b265591f",
+          "lastSyncedAt": "2026-11-26T18:57:36.795Z"
         }
       ]
     },
