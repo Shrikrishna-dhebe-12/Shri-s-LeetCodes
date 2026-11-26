@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T18:57:57.778Z",
+  "updatedAt": "2026-11-26T18:58:02.790Z",
   "problems": [
     {
       "frontendId": "178",
@@ -24,6 +24,26 @@
           "path": "leet/0178-rank-scores/0178-rank-scores.sql",
           "sha": "4074f34f22a53c9cf25d776df60174e8d4b4cdb2",
           "lastSyncedAt": "2026-11-26T18:57:42.792Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "181",
+      "title": "Employees Earning More Than Their Managers",
+      "slug": "employees-earning-more-than-their-managers",
+      "problemName": "0181-employees-earning-more-than-their-managers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/employees-earning-more-than-their-managers/",
+      "folderPath": "leet/0181-employees-earning-more-than-their-managers/",
+      "readmePath": "leet/0181-employees-earning-more-than-their-managers/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0181-employees-earning-more-than-their-managers.sql",
+          "path": "leet/0181-employees-earning-more-than-their-managers/0181-employees-earning-more-than-their-managers.sql",
+          "sha": "2527058602dd94727392fb98b1c5cb1d7ed7e60f",
+          "lastSyncedAt": "2026-11-26T18:58:02.790Z"
         }
       ]
     },
