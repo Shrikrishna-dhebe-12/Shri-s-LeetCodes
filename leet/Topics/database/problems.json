@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T19:04:01.211Z",
+  "updatedAt": "2026-11-26T19:04:03.801Z",
   "problems": [
     {
       "frontendId": "175",
@@ -183,7 +183,7 @@
           "filename": "0262-trips-and-users.sql",
           "path": "leet/0262-trips-and-users/0262-trips-and-users.sql",
           "sha": "df32a6d30fdb87e81fa48d9cd7a209cc4e90377a",
-          "lastSyncedAt": "2026-11-26T18:57:47.771Z"
+          "lastSyncedAt": "2026-11-26T19:04:03.801Z"
         }
       ]
     },
