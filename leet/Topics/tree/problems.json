@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-11-26T19:01:56.891Z",
+  "updatedAt": "2026-11-26T19:03:29.713Z",
   "problems": [
     {
       "frontendId": "968",
@@ -43,7 +43,7 @@
           "filename": "3820-pythagorean-distance-nodes-in-a-tree.py",
           "path": "leet/3820-pythagorean-distance-nodes-in-a-tree/3820-pythagorean-distance-nodes-in-a-tree.py",
           "sha": "4348008f9bfcece56e404fedd82c57200e39329e",
-          "lastSyncedAt": "2026-11-26T18:56:30.404Z"
+          "lastSyncedAt": "2026-11-26T19:03:29.713Z"
         }
       ]
     }
