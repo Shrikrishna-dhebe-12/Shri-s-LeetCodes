@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-26T19:01:56.891Z",
+  "updatedAt": "2026-11-26T19:04:13.733Z",
   "problems": [
     {
       "frontendId": "10",
@@ -123,7 +123,7 @@
           "filename": "1162-as-far-from-land-as-possible.py",
           "path": "leet/1162-as-far-from-land-as-possible/1162-as-far-from-land-as-possible.py",
           "sha": "37f6282ad9be779e83da317246ab995ce2bdc304",
-          "lastSyncedAt": "2026-11-26T18:58:08.312Z"
+          "lastSyncedAt": "2026-11-26T19:04:13.733Z"
         }
       ]
     }
