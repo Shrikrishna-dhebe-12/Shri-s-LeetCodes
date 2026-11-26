@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T18:56:48.243Z",
+  "updatedAt": "2026-11-26T18:57:30.603Z",
   "problems": [
+    {
+      "frontendId": "182",
+      "title": "Duplicate Emails",
+      "slug": "duplicate-emails",
+      "problemName": "0182-duplicate-emails",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/duplicate-emails/",
+      "folderPath": "leet/0182-duplicate-emails/",
+      "readmePath": "leet/0182-duplicate-emails/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0182-duplicate-emails.sql",
+          "path": "leet/0182-duplicate-emails/0182-duplicate-emails.sql",
+          "sha": "29405fafc2042a11b1798223242f42ac307b4807",
+          "lastSyncedAt": "2026-11-26T18:57:30.603Z"
+        }
+      ]
+    },
     {
       "frontendId": "1084",
       "title": "Sales Analysis III",
