@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-26T18:57:36.795Z",
+  "updatedAt": "2026-11-26T18:57:42.792Z",
   "problems": [
+    {
+      "frontendId": "178",
+      "title": "Rank Scores",
+      "slug": "rank-scores",
+      "problemName": "0178-rank-scores",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rank-scores/",
+      "folderPath": "leet/0178-rank-scores/",
+      "readmePath": "leet/0178-rank-scores/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0178-rank-scores.sql",
+          "path": "leet/0178-rank-scores/0178-rank-scores.sql",
+          "sha": "4074f34f22a53c9cf25d776df60174e8d4b4cdb2",
+          "lastSyncedAt": "2026-11-26T18:57:42.792Z"
+        }
+      ]
+    },
     {
       "frontendId": "182",
       "title": "Duplicate Emails",
