@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "binary-tree",
+    "name": "Binary Tree",
+    "tagId": "61057"
+  },
+  "updatedAt": "2026-11-26T19:01:56.891Z",
+  "problems": [
+    {
+      "frontendId": "968",
+      "title": "Binary Tree Cameras",
+      "slug": "binary-tree-cameras",
+      "problemName": "0968-binary-tree-cameras",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/binary-tree-cameras/",
+      "folderPath": "leet/0968-binary-tree-cameras/",
+      "readmePath": "leet/0968-binary-tree-cameras/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0968-binary-tree-cameras.py",
+          "path": "leet/0968-binary-tree-cameras/0968-binary-tree-cameras.py",
+          "sha": "ef4b94029120b48ce653d950898ccb94306e1d10",
+          "lastSyncedAt": "2026-11-26T19:01:56.891Z"
+        }
+      ]
+    }
+  ]
+}
