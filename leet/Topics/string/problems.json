@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String",
+    "tagId": "10"
+  },
+  "updatedAt": "2026-11-26T18:56:55.918Z",
+  "problems": [
+    {
+      "frontendId": "2983",
+      "title": "Palindrome Rearrangement Queries",
+      "slug": "palindrome-rearrangement-queries",
+      "problemName": "2983-palindrome-rearrangement-queries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-rearrangement-queries/",
+      "folderPath": "leet/2983-palindrome-rearrangement-queries/",
+      "readmePath": "leet/2983-palindrome-rearrangement-queries/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2983-palindrome-rearrangement-queries.py",
+          "path": "leet/2983-palindrome-rearrangement-queries/2983-palindrome-rearrangement-queries.py",
+          "sha": "0fd3e4430eebb9240ebd44b8f405acb6309b4308",
+          "lastSyncedAt": "2026-11-26T18:56:55.918Z"
+        }
+      ]
+    }
+  ]
+}
